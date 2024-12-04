@@ -10,7 +10,7 @@ These instructions will help you set up the project on your local machine for de
 
 What you need to install the software and how to install them:
 
-Python 3.x numpy pandas tensorflow or pytorch matplotlib scikit-learn
+Annaconda
 
 
 To install the required dependencies:
@@ -19,27 +19,7 @@ pip install numpy pandas tensorflow matplotlib scikit-learn
 
 ### Installing
 
-A step-by-step guide to set up the development environment:
-
-1. **Clone the Repository**  
-   Clone the project repository from the provided link:
-git clone <repository_url>
-
-
-2. **Navigate to the Project Directory**  
-Change to the project directory:
-cd <project_directory>
-
-
-3. **Install Dependencies**  
-Install all required libraries using the `requirements.txt` file:
-pip install -r requirements.txt
-
-
-4. **Verify the Installation**  
-Run a test script to ensure everything is set up correctly:
-python test_installation.py
-
+https://clouds.eos.ubc.ca/~phil/docs/problem_solving/01-Orientation/01.03-Installing-Anaconda-on-Windows.html
 
 End the setup process by confirming that all tests pass successfully.
 
@@ -99,9 +79,7 @@ We use [SemVer](http://semver.org/) for versioning. For available versions, see 
 
 ## Authors
 
-* **[Your Name]** - *Initial work*
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Sibyl Shibu** - *Initial work*
 
 ## License
 
